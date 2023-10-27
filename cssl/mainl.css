@@ -1,5 +1,5 @@
 body{
-    width: 1440px;
+    width: 1480px;
 }
 
 p {
@@ -161,17 +161,16 @@ body{
     justify-content: center;
     align-items: center;
 }
-/* .klavr{
-    position: relative;
-    width: 1480px;
-    top: 330px;
-} */
+
 .klavrd{
+    /* display: inline; */
     width: 1480px;
     position: relative;
     top: 630px;
-
+    display: flex;
+    justify-content: center;
 }
+
 .glava{
     width: 1480px;
     position: absolute;
@@ -179,7 +178,7 @@ body{
     font-size: 43.2px;
     font-family: 'Anonymous Pro', monospace;
     font-weight: bold;
-    letter-spacing: 7%;
+    letter-spacing: 4px;
     color: #FF16B0;
     display: flex;
     justify-content: center;
@@ -195,13 +194,13 @@ body{
 }
 .vensell2{
     position: absolute;
-    top: 2050px;
-    margin-left: 550px;
+    top: 2070px;
+    margin-left: 555px;
 }
 .anon{
     position:relative;
     margin-left: 100px;
-    top: 1200px;
+    top: 1090px;
     font-size: 70px;
     font-family: 'Anonymous Pro', monospace;
     color: #FF16B0;
@@ -209,8 +208,334 @@ body{
 .god{
     position:relative;
     margin-left: 820px;
-    top: 1140px;
+    top: 1030px;
     font-size: 17px;
     font-family: 'Anonymous Pro', monospace;
     color: #FF16B0;
+}
+.eto{
+    width: 1480px;
+    position:absolute;
+    top: 2370px;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -1%;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.hi{
+    position: absolute;
+    top: 2400px;
+    margin-left: 1100px;
+}
+.nachert{
+    width: 1480px;
+    position: relative;
+    top: 1610px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.line1{
+    position: absolute;
+    width: 1480px;
+    top: 2960px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vensell3{
+    position: absolute;
+    top: 2950px;
+    margin-left: 560px;
+}
+.nach{
+    position: relative;
+    top: 1740px;
+    margin-left: 0px;
+}
+.miss{
+    width: 1460px;
+    position: relative;
+    top: 1700px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.nachertania{
+    width: 1480px;
+    position: relative;
+    top: 1880px;
+    font-size: 31.07px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: space-around;
+}
+.p2{
+    font-style: italic;
+}
+.p3{
+    font-weight: bold;
+}
+.p4{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.nachertania2{
+    width: 1480px;
+    position: relative;
+    top: 1920px;
+    font-size: 40px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: space-around;
+}
+.an2{
+    font-style: italic;
+}
+.an3{
+    font-weight: bold;
+}
+.an4{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.nachertania3{
+    width: 1480px;
+    position: relative;
+    top: 1960px;
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+}
+.n1{
+    margin-left: 140px;
+}
+.n2{
+    font-style: italic;
+    margin-left: 300px;
+}
+.n3{
+    font-weight: bold;
+    margin-left: 330px;
+}
+.n4{
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 290px;
+}
+.bileti{
+    position: relative;
+    top: 2100px;
+    display: flex;
+    justify-content: center;
+}
+.vensell4{
+    position: absolute;
+    top: 4820px;
+    margin-left: 560px;
+}
+.alfavit{
+    width: 1480px;
+    position: relative;
+    top: 2280px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.line4{
+    position: absolute;
+    width: 1480px;
+    top: 4820px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.mashinka{
+    width: 1480px;
+    position: absolute;
+    top: 5000px;
+    display: flex;
+    justify-content: center;
+}
+.linewow{
+    width: 1480px;
+    position: absolute;
+    top: 5390px;
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 20.99px;
+    overflow: hidden;
+    color: #FF16B0;
+}
+.osoben{
+    width: 1480px;
+    position: relative;
+    top: 3350px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.vensell5{
+    position: absolute;
+    top: 5935px;
+    margin-left: 560px;
+}
+.line5{
+    position: absolute;
+    width: 1480px;
+    top: 5940px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.osobimg{
+    width: 100%;
+    position: relative;
+    top: 3530px;
+    display: flex;
+    justify-content: center;
+}
+.line6{
+    position: relative;
+    width: 100%;
+    top: 3680px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+}
+.typing{
+    width: 1480px;
+    position: relative;
+    top: 3800px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.nositeli{
+    position: relative;
+    top: 3900px;
+    margin-left: 20px;
+}
+.knigi{
+    position: relative;
+    width: 1480px;
+    top: 3950px;
+    display: flex;
+    justify-content: center;
+}
+.eshe{
+    position: relative;
+    top: 4000px;
+    margin-left: 20px;
+}
+.kniga{
+    position: relative;
+    width: 1480px;
+    top: 4080px;
+    display: flex;
+    justify-content: center;
+}
+.zaya{
+    position: relative;
+    top: 4180px;
+    margin-left: 20px;
+}
+.podval{
+    position: relative;
+    width: 100%;
+    top: 4300px;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.hse{
+    position: relative;
+    width: 100%;
+    top: 4450px;
+}
+
+.podval1{
+    position: relative;
+    width: 1460px;
+    top: 4300px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.podval2{
+    position: relative;
+    width: 1460px;
+    top: 4315px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.podval3{
+    position: relative;
+    width: 1460px;
+    top: 4330px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.end{
+    position: relative;
+    width: 1460px;
+    height: 70px;
+    top: 4500px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
 }
